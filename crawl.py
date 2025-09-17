@@ -1,3 +1,14 @@
+"""
+Craigslist Crawler - Core Crawler Classes
+
+Contains the main crawler implementations for link extraction, data crawling,
+and image downloading from Craigslist.
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 import json
 from abc import ABC, abstractmethod
 

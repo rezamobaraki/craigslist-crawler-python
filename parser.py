@@ -1,3 +1,13 @@
+"""
+Craigslist Crawler - HTML Parser
+
+Parser for extracting data from Craigslist advertisement pages.
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 from bs4 import BeautifulSoup
 
 

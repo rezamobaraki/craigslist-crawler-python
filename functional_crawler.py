@@ -1,3 +1,13 @@
+"""
+Craigslist Crawler - Functional Implementation
+
+A functional approach to crawling Craigslist for housing advertisements.
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 import sys
 
 import requests

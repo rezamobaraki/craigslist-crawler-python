@@ -1,3 +1,13 @@
+"""
+Craigslist Crawler - Main Entry Point
+
+A Python-based web crawler for extracting real estate listings from Craigslist.
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 import sys
 
 from crawl import LinkCrawler, DataCrawler, ImageDownloader

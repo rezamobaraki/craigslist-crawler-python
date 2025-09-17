@@ -1,3 +1,13 @@
+"""
+Craigslist Crawler - Storage Backends
+
+Storage implementations for MongoDB and file-based storage.
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 import json
 from abc import ABC, abstractmethod
 

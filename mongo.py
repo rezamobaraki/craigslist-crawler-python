@@ -1,3 +1,13 @@
+"""
+Craigslist Crawler - MongoDB Connection
+
+MongoDB database connection and management using singleton pattern.
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 from pymongo import MongoClient
 
 

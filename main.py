@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+"""
+Craigslist Crawler - Main Entry Point
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 import sys
 
 from crawl import LinkCrawler, DataCrawler, ImageDownloader

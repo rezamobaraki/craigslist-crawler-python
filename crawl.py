@@ -1,3 +1,15 @@
+#!/usr/bin/env python3
+"""
+Craigslist Crawler - Core Crawler Classes
+
+This module contains the main crawler classes for finding links,
+extracting data, and downloading images from Craigslist listings.
+
+Author: Reza Mobaraki
+GitHub: https://github.com/rezamobaraki
+LinkedIn: https://linkedin.com/in/reza-mobaraki
+"""
+
 import json
 from abc import ABC, abstractmethod
 
